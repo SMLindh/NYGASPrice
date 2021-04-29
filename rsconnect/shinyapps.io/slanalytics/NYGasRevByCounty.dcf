@@ -1,0 +1,13 @@
+name: NYGasRevByCounty
+title: NYGasRevByCounty
+username:
+account: slanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4025661
+bundleId: 4514876
+url: https://slanalytics.shinyapps.io/NYGasRevByCounty/
+when: 1619300961.73291
+lastSyncTime: 1619300961.73291
+asMultiple: FALSE
+asStatic: FALSE
